@@ -7,7 +7,7 @@
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "build": "npx @tailwindcss/cli -i ./style.css -o ./dist/output.css"
+    "build": "npx @tailwindcss/cli -i ./css/input.css -o ./css/output.css"
   },
   "dependencies": {
     "@tailwindcss/cli": "^4.1.8",
