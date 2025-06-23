@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --color-zara-pink: #F8E1E4;
+    --color-zara-darkpink: #BE5985;
+    --color-zara-brown: #EC7FA9;
+    --font-poppins: "Poppins";
+}
